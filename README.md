@@ -60,8 +60,7 @@ In this module, you will:
 
 - Explore the code from previous Flask-React labs.
 - Build a React frontend in parallel with a Flask backend.
-- Create a websocket connection between Flask and React to improve your
-  application's performance.
+- Learn about different protocols for communication over the internet.
 
 Happy coding!
 
